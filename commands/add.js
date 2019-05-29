@@ -1304,7 +1304,7 @@ if (args[1] == "acid") {
 exports.conf = {
     enabled: false,
     guildOnly: false,
-    aliases: ['a'],
+    aliases: [],
     permLevel: 3,
 };
 
